@@ -1,6 +1,4 @@
 import TechCard from "./TechCard";
-import Image from "next/image";
-import techCard from "./TechCard";
 
 export default function Tech() {
   return (
